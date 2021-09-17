@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFnWTo3RebmAzYpGSkYkB/MrNnA36MwAUaUa3loQS2nizxs03tuAZbFnYePvTKFZeohclIgiS7Qger/AyTQwUQ==",
+  "success": true,
+  "projectFilePath": "/Users/mike/Projects/SqlitePractice/SqlitePracticeUI/SqlitePracticeUI.csproj",
+  "expectedPackageFiles": [
+    "/Users/mike/.nuget/packages/dapper/2.0.90/dapper.2.0.90.nupkg.sha512",
+    "/Users/mike/.nuget/packages/microsoft.extensions.configuration/6.0.0-rc.1.21451.13/microsoft.extensions.configuration.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/mike/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0-rc.1.21451.13/microsoft.extensions.configuration.abstractions.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/mike/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/Users/mike/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/Users/mike/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/mike/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/mike/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/mike/.nuget/packages/microsoft.extensions.primitives/6.0.0-rc.1.21451.13/microsoft.extensions.primitives.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/mike/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.115/stub.system.data.sqlite.core.netstandard.1.0.115.nupkg.sha512",
+    "/Users/mike/.nuget/packages/system.data.sqlite.core/1.0.115/system.data.sqlite.core.1.0.115.nupkg.sha512",
+    "/Users/mike/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0-rc.1.21451.13/system.runtime.compilerservices.unsafe.6.0.0-rc.1.21451.13.nupkg.sha512"
+  ],
+  "logs": []
+}
